@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jatin Portfolio</title>
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            background-color: #0f172a;
+            color: white;
+        }
+        h1 {
+            color: #38bdf8;
+        }
+        .box {
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>Hi, I am Jatin 🚀</h1>
+        <p>Future Cloud & Full Stack Developer</p>
+        <p>Learning AWS | Java | Python</p>
+    </div>
+</body>
+</html>
